@@ -16,3 +16,12 @@ PS1="\[\033[1;36m\]\u\[\033[1;31m\]:\[\033[1;35m\]\w\[\033[1;31m\]\$\[\033[0m\] 
 
 #Aliases
 alias ed="cd ~/code/edop"
+
+#Git
+alias gs="git status"
+alias gc="git commit"
+alias gap="git add -p"
+alias ga="git add"
+alias gp="git push"
+alias gf="git fetch"
+alias gl="git pull"
